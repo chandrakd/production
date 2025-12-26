@@ -1,4 +1,6 @@
-<<<<<<< Updated upstream
+git fetch
+git fetch
+
 kaya
 kaya
 work
