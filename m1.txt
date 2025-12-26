@@ -1,4 +1,10 @@
+<<<<<<< Updated upstream
 kaya
 kaya
 work
 statsh 2
+=======
+hiiiiiiiiiiiii
+how are y
+hello
+>>>>>>> Stashed changes
